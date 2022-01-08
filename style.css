@@ -4,9 +4,9 @@ section{
 }
 .part1{
     background-image: url(images/shapes/shape-4.png);
-    background-size: 100%;
+    background-size: 100px;
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: left top;
 }
 h1{
     font-family: 'Lora', serif;
