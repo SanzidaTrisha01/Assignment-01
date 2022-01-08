@@ -2,15 +2,21 @@ section{
     display: inline-flex;
     margin: 3% 3% 100px 5%;
 }
+.part1{
+    background-image: url(images/shapes/shape-4.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: left;
+}
 h1{
     font-family: 'Lora', serif;
-    border-left: 5px solid rebeccapurple;
-    border-radius: 5px;
-    border-image-width: 5px;
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, rgb(210, 88, 235), blue);
     border-image-slice: 1;
     font-size: 70px;
     padding-left: 10px;
 }
+    
 .heading-clr{
     color: rgb(238, 13, 227);
 }
