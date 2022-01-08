@@ -75,3 +75,10 @@ p{
     background-repeat: no-repeat;
     background-position: left center;
 }
+.part3{
+    background-image: url(images/shapes/shape-5.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 30px;
+}
