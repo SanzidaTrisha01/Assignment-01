@@ -1,0 +1,40 @@
+section{
+    display: inline-flex;
+    margin: 3% 3% 100px 5%;
+}
+h1{
+    font-family: 'Lora', serif;
+    border-left: 5px solid rebeccapurple;
+    border-radius: 5px;
+    border-image-width: 5px;
+    border-image-slice: 1;
+    font-size: 70px;
+    padding-left: 10px;
+}
+.heading-clr{
+    color: rgb(238, 13, 227);
+}
+div img{
+    width: 70%;
+    padding-left: 5%;
+}
+div{
+    width: 50%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+div p{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: radial-gradient(rgb(255, 109, 231), rgb(102, 4, 168));
+    color: rgb(11, 2, 110);
+    font-weight: 700;
+    font-size: 25px;
+    border-radius: 8px;
+    border-style: hidden;
+}
